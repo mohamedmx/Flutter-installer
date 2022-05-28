@@ -14,3 +14,5 @@ features
 + Defining the path of Java JDK in the Windows environment variables Automatically
 
 Now you are ready to start developing with a flutter
+
+> You can also install a custom version by clicking on the manual install button. You can choose from all the proposed flutter versions
