@@ -16,3 +16,10 @@ features
 Now you are ready to start developing with a flutter
 
 > You can also install a custom version by clicking on the manual install button. You can choose from all the proposed flutter versions
+
+Tool UI Screenshots
+
+![icon](https://user-images.githubusercontent.com/11804864/172686932-70d885ff-d707-42c0-8f04-3b123242c799.png)
+
+![Flutter Auto installer](https://user-images.githubusercontent.com/11804864/172686929-1c322fd6-f64d-4cf5-adee-dc9027769991.png)
+
